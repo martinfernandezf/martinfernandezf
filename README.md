@@ -23,4 +23,4 @@ Actualmente, trabajo en [Edenor](https://edenor.com.ar) detectando patrones de f
 - **LinkedIn**: [Martín Fernández](https://www.linkedin.com/in/martinfernandezf/)
 - **Correo**: martinfernandezfigarola@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinfernandezf&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinfernandezf&show_icons=true&theme=transparent)
