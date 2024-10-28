@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Martín Fernández
 
-Data Scientist | Especialista en Detección de Fraude en Consumo Eléctrico | Scraping de Redes Sociales y Visualización de Datos
+Data Scientist | Especialista en Detección de Fraude en Consumo Eléctrico 
 
 Actualmente, trabajo en [Edenor](https://edenor.com.ar) detectando patrones de fraude mediante machine learning, análisis de datos y desarrollo de dashboards en Power BI.
 
