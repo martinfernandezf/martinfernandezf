@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Martín Fernández
 
-<!--
-**martinfernandezf/martinfernandezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Especialista en Detección de Fraude en Consumo Eléctrico | Scraping de Redes Sociales y Visualización de Datos
 
-Here are some ideas to get you started:
+Actualmente, trabajo en [Edenor](https://edenor.com.ar) detectando patrones de fraude mediante machine learning, análisis de datos y desarrollo de dashboards en Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Habilidades Técnicas
+- **Lenguajes y Herramientas**: Python, SQL, Power BI, Git, Scikit-Learn
+- **Machine Learning**: LightGBM, XGBoost, Modelado predictivo
+- **Visualización**: Power BI, Matplotlib, Seaborn
+- **Procesamiento de datos**: pandas, ETL, Wrangling de datos
+
+### 🚀 Proyectos Destacados
+1. **[Detección de Fraude en Consumo de Electricidad](https://github.com/martinfernandezf/ElectricityTheftDetection)**
+   - Proyecto para identificar patrones sospechosos de consumo usando datos históricos y técnicas de machine learning.
+   - Herramientas: Python, LightGBM, SHAP.
+
+2. **[Facebook Scrapper](https://github.com/martinfernandezf/FacebookScrapper)**
+   - Script para scraping de datos en Facebook, automatizando la recolección de datos para análisis.
+   - Herramientas: Python, Selenium.
+
+### 📫 Contacto
+- **LinkedIn**: [Martín Fernández](https://www.linkedin.com/in/martinfernandezf/)
+- **Correo**: martinfernandezfigarola@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinfernandezf&show_icons=true&theme=radical)
