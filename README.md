@@ -6,7 +6,7 @@ Actualmente, trabajo en [Edenor](https://edenor.com.ar) detectando patrones de f
 
 ### ⚙️ Habilidades Técnicas
 - **Lenguajes y Herramientas**: Python, SQL, Power BI, Git, Scikit-Learn
-- **Machine Learning**: LightGBM, XGBoost, Modelado predictivo
+- **Machine Learning**: Random Forest, Xg Boost, PCA...
 - **Visualización**: Power BI, Matplotlib, Seaborn
 - **Procesamiento de datos**: pandas, ETL, Wrangling de datos
 
